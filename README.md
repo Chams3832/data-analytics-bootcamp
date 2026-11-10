@@ -6,7 +6,7 @@ Completed the **Alex The Analyst Data Analyst Bootcamp** (self-paced, free onlin
 
 ## Certificate
 
-![Data Analytics Bootcamp certificate of completion](certificate.png)
+![Data Analytics Bootcamp certificate of completion](certificate of completion Data Analytics)
 
 ## My Projects
 
